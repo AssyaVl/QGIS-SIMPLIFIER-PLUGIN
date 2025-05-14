@@ -1,0 +1,7 @@
+[general]
+name=TopoCartGenPlugin
+description=Topology-Preserving Cartographic Generalization Algorithm Plugin
+version=1.0
+qgisMinimumVersion=3.0
+author=Anastasiaa
+email=anastasiaa.vol.04@gmail.com
